@@ -2,3 +2,4 @@
 
 [Content](git-basics.md) of slides
 kristofer is white
+kristofer is racist
