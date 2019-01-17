@@ -7,3 +7,5 @@ git push --set-upstream origin master
 git add.
 git commit -m"Added notes.md"
 git push
+
+kristofer is white
